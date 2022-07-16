@@ -1,4 +1,4 @@
-# go-datastructure
+# Go Data Structure
 
 Practicing data structure in Go
 
