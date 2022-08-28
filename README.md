@@ -1,6 +1,6 @@
 # Go Data Structure
 
-Practicing data structure in Go
+Practicing data structure and algorithm in Go
 
 ## Linked List
 
